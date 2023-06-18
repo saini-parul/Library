@@ -1,0 +1,83 @@
+[
+    {
+     "name": "Machine Design",
+     "image": "https://th.bing.com/th/id/OIP.V9XeRFCLcLE1tyOVs45X5AHaKc?w=196&h=276&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "R.S.KHURMI",
+     "language": "English",
+     "publish": "209",
+     "id": "1"
+    },
+    {
+     "name": "Engineering Mechanics",
+     "image": "https://th.bing.com/th/id/OIP.xL9FuiU7HeVZXwop8HzUsgHaLt?w=196&h=311&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "K.L.KUMAR",
+     "language": "English",
+     "publish": "2017",
+     "id": "2"
+    },
+    {
+     "name": "Theory Of Machines",
+     "image": "https://th.bing.com/th/id/OIP.C9FpwOWgolm43xhUVy7x0QHaIr?w=196&h=229&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "G.K.GUPTA",
+     "language": "English",
+     "publish": "2015",
+     "id": "3"
+    },
+    {
+     "name": "Elements of Machines",
+     "image": "https://th.bing.com/th/id/OIP.3hBIxjtoZt9ExLacbVbo0QAAAA?w=196&h=276&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "S.CHAND",
+     "language": "English",
+     "publish": "2012",
+     "id": "4"
+    },
+    {
+     "name": "Diesel Mechanics",
+     "image": "https://th.bing.com/th/id/OIP.D5zCkwqiRcDfymo3Q4wfNQHaJx?w=196&h=259&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "Mr.Evridge",
+     "language": "language 5",
+     "publish": "publish 5",
+     "id": "5"
+    },
+    {
+     "name": "Engineering Drawing",
+     "image": "https://th.bing.com/th/id/OIP.GFV4oN-a0_FNyhZxmWT0_wHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "K.Venkata Reddy",
+     "language": "English",
+     "publish": "1995",
+     "id": "6"
+    },
+    {
+     "name": "Mechanical Vibration",
+     "image": "https://th.bing.com/th/id/OIP.oyXVUyvLDi72ZrtCdITmNgAAAA?w=186&h=215&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "S.Graham Kelly",
+     "language": "English",
+     "publish": "2012",
+     "id": "7"
+    },
+    {
+     "name": "Mechanics Of Fluids",
+     "image": "https://th.bing.com/th/id/OIP.v0mQDcu7xgX83czlTGUXdQHaJQ?w=186&h=233&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "Devid C.Wiggers",
+     "language": "English",
+     "publish": "1999",
+     "id": "8"
+    },
+    {
+     "name": "Design Of Machine Elements",
+     "image": "https://th.bing.com/th/id/OIP.llqpzMJQ7L5xGeWsb5qc6QAAAA?w=186&h=244&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "V.S.Bhandari",
+     "language": "English",
+     "publish": "1980",
+     "id": "9"
+    },
+    {
+     "name": "Manufacturing Engineering",
+     "image": "https://th.bing.com/th/id/OIP.N1OGP8PHvZWhx2UHW5bZGgHaKq?w=186&h=267&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+     "author": "J.Paulo Davim",
+     "language": "English",
+     "publish": "1991",
+     "id": "10"
+    }
+   ]
+    
